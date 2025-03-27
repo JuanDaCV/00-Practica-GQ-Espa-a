@@ -57,7 +57,7 @@ Cada README dentro de las carpetas de prácticas explica qué parte del sitio fu
 
 1. Clona el repositorio en tu equipo:
    ```bash
-   git clone https://github.com/JuanDaCV/Maquetacion-Practicas.git
+   git clone https://github.com/JuanDaCV/Practicas_de_Maquetacion_Web
    ```
 2. Explora las diferentes prácticas y abre los archivos `index.html` en tu navegador para ver los diseños.
 
