@@ -31,7 +31,7 @@ He replicado los elementos del header y la barra de navegación utilizando solo 
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/JuanDaCV/00-Practica-GQ-Espa-a.git
+   git clone https://github.com/JuanDaCV/Practicas_de_Maquetacion_Web/tree/main/00-practica
    ```
 2. Abre el archivo `index.html` en tu navegador favorito. 🌍
 
