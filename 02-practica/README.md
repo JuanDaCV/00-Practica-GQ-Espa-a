@@ -38,7 +38,7 @@ no son exactamente los que tome como referencia pero sirven para explicar. jajaj
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/JuanDaCV/02-Practica-Carteles-Supermercado.git
+   git clone https://github.com/JuanDaCV/Practicas_de_Maquetacion_Web/tree/main/02-practica
    ```
 2. Abre el archivo `index.html` en tu navegador favorito. 🌍
 
