@@ -1,54 +1,79 @@
-# ✨ Practica 00 | GQ España ✨
-#### 📜 Replica del Header y Nav de sitio web:
-    https://www.revistagq.com/tags/zapatillas
-
-Este proyecto es una réplica del header y la barra de navegación de la página GQ. Es parte de mi práctica diaria para mejorar mis habilidades en HTML y CSS. Ya que yo actualmente selecciono páginas aleatorias y replico ciertos elementos para mejorar mi maquetación de sitios web. En esta ocasión, trabajé con la página de GQ 🚀
-
----
+# 🌟 Repositorio de Prácticas de Maquetación Web 🌟
 
 ## 📌 Descripción
 
-He replicado los elementos del header y la barra de navegación utilizando solo **HTML y CSS**. Aunque no he implementado la funcionalidad de **JavaScript** porque literalmente aun no se nada de Js pero, el diseño visual es muy similar al original. 💻🎨
+Este repositorio es un espacio dedicado a mis prácticas de maquetación web utilizando **HTML y CSS**. Mi objetivo es mejorar mis habilidades replicando diseños de sitios web reales y aplicando buenas prácticas en el desarrollo frontend. Cada carpeta dentro de este repositorio contiene una práctica específica donde replico elementos clave de interfaces web, como **headers, barras de navegación y diseños responsivos**.
+
+---
+
+## 🎯 Objetivo del Repositorio
+
+- Mejorar mi precisión en maquetación web.
+- Aprender sobre estructuras HTML semánticas y organización del código CSS.
+- Replicar diseños para comprender cómo funcionan los estilos en proyectos reales.
+- Documentar mi progreso y compartir mi aprendizaje con otros desarrolladores.
+
+---
+
+## 🗂️ Estructura del Repositorio
+
+Cada práctica dentro del repositorio está organizada en su propia carpeta y cuenta con su propio README donde se detalla el objetivo de la replicación y las tecnologías utilizadas.
+
+Ejemplo de estructura:
+
+```
+Repositorio/
+│── 00-Practica/
+│   ├── index.html
+│   ├── styles.css
+│   ├── README.md (Descripción específica de la práctica)
+│
+│── 01-Practica/
+│   ├── index.html
+│   ├── styles.css
+│   ├── README.md (Descripción específica de la práctica)
+│
+│── xx-Practica
+│   ├── x.html
+│   ├── x.css
+│   ├── x-README.md (Descripción x de la práctica x)
+│
+│── README.md (Este archivo)
+```
+
+Cada README dentro de las carpetas de prácticas explica qué parte del sitio fue replicada, qué tecnologías se usaron y cómo se puede visualizar el resultado.
 
 ---
 
 ## 🛠️ Tecnologías Utilizadas
 
-- 🏗️ **HTML**
-- 🎨 **CSS**
+- 🌐 **HTML** - Para la estructura de las páginas.
+- 🎨 **CSS** - Para el diseño y estilo visual.
+- 🚀 (Próximamente) **JavaScript** - Para agregar interactividad a futuros proyectos.
 
 ---
 
-## 📸 Capturas de Pantalla
+## 🚀 Cómo Usar Este Repositorio
 
-![image](https://github.com/user-attachments/assets/cbb96f2b-f10c-4fca-9d46-fe33fd13d17f)
- 
-
----
-
-## 🚀 Cómo Ejecutar el Proyecto
-
-1. Clona el repositorio:
+1. Clona el repositorio en tu equipo:
    ```bash
-   git clone https://github.com/JuanDaCV/00-Practica-GQ-Espa-a.git
+   git clone https://github.com/JuanDaCV/Maquetacion-Practicas.git
    ```
-2. Abre el archivo `index.html` en tu navegador favorito. 🌍
+2. Explora las diferentes prácticas y abre los archivos `index.html` en tu navegador para ver los diseños.
 
 ---
 
 ## 📜 Justificación
 
-Este proyecto es una práctica personal y educativa. **No tiene fines comerciales** y se ha realizado con el propósito de mejorar mis habilidades de desarrollo web. Todos los derechos de los contenidos originales pertenecen a sus respectivos propietarios. ⚖️
+Este repositorio es exclusivamente educativo y sin fines comerciales. Todos los derechos de los contenidos originales pertenecen a sus respectivos propietarios. Su único propósito es el aprendizaje y la mejora continua en el desarrollo web.
 
 ---
 
 ## 📬 Contacto
 
-📩 Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
+📩 Si tienes alguna sugerencia o quieres compartir conocimientos:
 - 💌 [jdcarabali@estudiante.uniajc.edu.co](mailto:jdcarabali@estudiante.uniajc.edu.co)
 - 🐙 [GitHub: JuanDaCV](https://github.com/JuanDaCV)
 
----
-
-⭐ ¡Si te gusta este proyecto, dale una estrella en GitHub! ⭐
+⭐ Si te gusta este repositorio, ¡no olvides darle una estrella en GitHub! ⭐
 
